@@ -1520,14 +1520,14 @@
 <XPD:OBJ name="OwnedViews[0]" type="UMLNoteView" guid="JL6mZajteUuA+EVwpQNO4gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">56</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">128</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">28</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">157</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">221</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">73</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Ravi
-Joey
-Artem
-Duy - 126493188
+<XPD:ATTR name="Text" type="string">Raviththakan Jeganuntthan - 133909184 
+Joseph Assal - 108119181
+Artem Meleshchenko - 153272174
+Duy Khanh Le - 126493188
 </XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[1]" type="UMLClassView" guid="DsK+AOMTBE61I5KpATqGVAAA">
